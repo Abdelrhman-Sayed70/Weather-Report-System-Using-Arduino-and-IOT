@@ -1,4 +1,4 @@
-# Weather_report_system_with_Arduino_and_IOT
+# Weather-Report-System-Using-Arduino-and-IOT
 
 # Describtion
 
@@ -10,15 +10,15 @@ regarding weather conditions on their mobile.
 Solar energy source.
 
 # Tools :
--Programming Language:Arduino C .
+- Programming Language: Arduino C.
 
--Solar energy source
+- Solar energy source
 
--Hardware: Arduino.
+- Hardware: Arduino.
 
--software: Arduino compiler.
+- Software: Arduino compiler.
 
--IoT: Blynk application.
+- IOT: Blynk application.
 
 
 
